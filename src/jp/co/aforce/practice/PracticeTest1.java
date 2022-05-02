@@ -21,7 +21,7 @@ public class PracticeTest1 {
 		System.out.println(total);
 
 		//練習問題6
-		int NUMBER = 6;
+		final int NUMBER = 6;
 		System.out.println(NUMBER);
 
 		//練習問題7

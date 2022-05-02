@@ -1,9 +1,12 @@
 package jp.co.aforce.practice;
 
+import java.util.Random;
+
 public class PracticeTest6 {
 	public static void main(String[] args) {
 		//練習問題1
-		int fortune = new java.util.Random().nextInt(10);
+		Random random = new Random();
+		int fortune = random.nextInt(5);
 
 		switch (fortune) {
 		case 1:
