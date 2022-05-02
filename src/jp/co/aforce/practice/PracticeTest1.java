@@ -2,6 +2,7 @@ package jp.co.aforce.practice;
 
 public class PracticeTest1 {
 	public static void main(String[] args) {
+
 		//練習問題2
 		System.out.println("Hello World");
 
